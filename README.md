@@ -25,7 +25,7 @@ I have recently passed 42's Piscine and am currently switching careers from grap
 
 <div>
     <a href="https://github.com/lesampietro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lesampietro&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesampietro&layout=compact&langs_count=7&theme=moltack"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lesampietro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesampietro&layout=compact&langs_count=7&theme=cobalt"/>
     </a>
 </div>
