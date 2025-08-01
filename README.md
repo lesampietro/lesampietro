@@ -11,6 +11,8 @@ I have recently passed 42's Piscine and am currently switching careers from grap
 * ✉️  You can contact me at [lesampietro@gmail.com](mailto:lesampietro@gmail.com)
 * 🧠  I'm learning C, HTML, CSS, JS
 
+42 Common Core Progress
+-----------------------
 ![lsampiet's 42 stats](https://badge.mediaplus.ma/darkblue/lsampiet?1337Badge=off&UM6P=off)
 
 ### Skills
