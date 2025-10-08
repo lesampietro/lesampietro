@@ -1,10 +1,14 @@
 Hi👋, I'm Letícia
 ===============================================================================================================================
-
-I'm a Graphic Designer and Software Engineering Student @42
+✨ About Me
 -----------------------------------------------------------
 
-Software Engineering student and Senior Designer with extensive experience in visual design, animation, and user-centric interfaces. Transitioning to the technology field, I've been improving my skills in front-end development with Next.js, JavaScript, HTML, and CSS through freelance projects, where I work from design and prototype creation to final implementation. Additionally, I continue expanding my knowledge with hands-on projects involving unit testing and object-oriented programming.
+I’m a Software Engineering student and Senior Designer with over eight years of experience in visual design, animation, and user-centered interfaces.
+
+Since 2023, I’ve been transitioning from design to software development, focusing on Front-End Development.
+I’m currently improving my skills with Next.js, JavaScript, HTML, and CSS through freelance projects — where I handle everything from design and prototyping to final implementation.
+
+I am also a cadet 👩‍🚀 @ [42 Sâo Paulo](https://www.42sp.org.br/),a software engineering school that applies an innovative, project-based, and peer-to-peer learning methodology, centered on practical experience and collaborative programming.
 
 * 🌍  I'm based in São Paulo, Brasil
 * 🖥️  See my portfolio at [leticiasampietro.myportfolio.com](http://leticiasampietro.myportfolio.com/)
