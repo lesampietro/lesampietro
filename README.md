@@ -4,7 +4,7 @@ Hi👋, I'm Letícia
 I'm a Graphic Designer and Software Engineering Student @42
 -----------------------------------------------------------
 
-I have recently passed 42's Piscine and am currently switching careers from graphic design to software development.
+Software Engineering student and Senior Designer with extensive experience in visual design, animation, and user-centric interfaces. Transitioning to the technology field, I've been improving my skills in front-end development with Next.js, JavaScript, HTML, and CSS through freelance projects, where I work from design and prototype creation to final implementation. Additionally, I continue expanding my knowledge with hands-on projects involving unit testing and object-oriented programming.
 
 * 🌍  I'm based in São Paulo, Brasil
 * 🖥️  See my portfolio at [leticiasampietro.myportfolio.com](http://leticiasampietro.myportfolio.com/)
