@@ -13,7 +13,7 @@ I am also a cadet 👩‍🚀 @ [42 Sâo Paulo](https://www.42sp.org.br/),a soft
 * 🌍  I'm based in São Paulo, Brasil
 * 🖥️  See my portfolio at [leticiasampietro.myportfolio.com](http://leticiasampietro.myportfolio.com/)
 * ✉️  You can contact me at [lesampietro@gmail.com](mailto:lesampietro@gmail.com)
-* 🧠  I'm learning C, HTML, CSS, JS
+* 🧠  I'm learning C, C++, JS, React, Next.js
 
 42 Common Core Progress
 -----------------------
