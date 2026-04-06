@@ -11,7 +11,6 @@ I’m currently improving my skills with Next.js, JavaScript, HTML, and CSS thro
 I am also a cadet 👩‍🚀 @ [42 Sâo Paulo](https://www.42sp.org.br/),a software engineering school that applies an innovative, project-based, and peer-to-peer learning methodology, centered on practical experience and collaborative programming.
 
 * 🌍  I'm based in São Paulo, Brasil
-* 🖥️  See my portfolio at [leticiasampietro.myportfolio.com](http://leticiasampietro.myportfolio.com/)
 * ✉️  You can contact me at [lesampietro@gmail.com](mailto:lesampietro@gmail.com)
 * 🧠  I'm learning C, C++, JS, React, Next.js
  
